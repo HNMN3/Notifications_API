@@ -1,0 +1,1 @@
+web: gunicorn Notifications_API.wsgi
